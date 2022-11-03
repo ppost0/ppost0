@@ -8,7 +8,7 @@ I graduated with a degree in Biological Sciences and worked at Pfizer in Specime
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [patrickpost000@gmail.com](mailto:patrickpost000@gmail.com)
-* 🧠  I'm learning Javascript, HTML, & CSS
+* 🧠  I'm learning FullStack Javascript
 * ⚡  I love movies and video games~
 
 ### Skills
