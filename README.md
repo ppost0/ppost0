@@ -4,7 +4,7 @@ Hi 👋 My name is Patrick Post
 Software Engineer
 -----------------
 
-I graduated with a degree in Biological Sciences and worked at Pfizer in Specimen Management under Vaccine Research and Development for two years before making a career change and beginning self-study.
+I graduated with a degree in Biological Sciences and worked for Pfizer in Specimen Management under Vaccine Research and Development for two years before beginning self-study.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [patrickpost000@gmail.com](mailto:patrickpost000@gmail.com)
