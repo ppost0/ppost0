@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick Post and I'm a Software Engineer from New York</h2>
+<h2 align="left">Hi 👋! My name is Patrick Post and I'm a Software Engineer from Queens</h2>
 
 ###
 
@@ -50,4 +50,8 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ppost0/count.svg?"  />
+</div>
 
+###
