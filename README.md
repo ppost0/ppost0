@@ -44,6 +44,10 @@
 
 ###
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red line animation" />
+
+###
+
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif?cid=ecf05e47rx5gaz1tv0utcvakikfik062ki8hsyrwolbmi6oc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
