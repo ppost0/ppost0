@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">I previously worked for Pfizer in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. 💻<br>I love movies and video games.  🎮</p>
+<p align="center">I previously worked for Pfizer in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. 💻<br>I love movies and video games.  <img src=https://camo.githubusercontent.com/7e1f622b7366bc562724399b31a590f411f4000f95ec25f2ead1bcc4743abde3/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966 height="30" /> </p>
 
 ###
 
