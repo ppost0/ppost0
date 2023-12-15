@@ -59,11 +59,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ppost0/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
