@@ -33,7 +33,7 @@
 
 ###
 
-<h5 align="center">Other places I can be found ...</h5>
+<h4 align="center">Where you can find me:</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
