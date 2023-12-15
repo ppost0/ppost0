@@ -32,7 +32,7 @@
 </div>
 
 ###
-<h3>Other places I can be found</h3>
+<h6 align="center">Other places I can be found ...</h6>
 <div align="center">
   <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="35" alt="linkedin logo"  />
