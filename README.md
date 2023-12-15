@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">I previously worked for <b>Pfizer</b> as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" height="60" /> </p>
+<p align="center">I previously worked for <b>Pfizer</b> as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 width=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
 
 ###
 <h3 align="center">My Skills:</h3>
@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="35" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="35" width="35" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/19276572/ppost" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
