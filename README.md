@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">I previously worked for Pfizer as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fj3bly1j8icu61.gif" height="30" /> </p>
+<p align="center">I previously worked for Pfizer as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" height="30" /> </p>
 
 ###
 
