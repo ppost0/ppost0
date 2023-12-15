@@ -12,7 +12,7 @@
 <p align="center">I previously worked for Pfizer as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" height="60" /> </p>
 
 ###
-
+<h3 align="center">My skills:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
