@@ -12,8 +12,8 @@
 <p align="center">I previously worked for <b>Pfizer</b> as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 width=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
 
 ###
-<div>
-<h3 align="left">My Skills:</h3>
+
+<h3 align="center">My Skills:</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="right">Where you can find me:</h4>
+<h4 align="center">Where you can find me:</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-</div>
+
 ###
 
 
