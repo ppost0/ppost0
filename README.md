@@ -9,10 +9,6 @@
 
 ###
 
-
-
-
-
 <p align="center">I previously worked for <b>Pfizer</b> as a scientist in Vaccine Research and Development for two years. 💉<br>I am currently learning Full Stack Javascript and Web Development. <img height=30 width=30 src=https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif><br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
 
 ###
