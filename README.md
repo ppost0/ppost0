@@ -56,9 +56,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ppost0/count.svg?"  />
-</div>
 ###
 
 <br clear="both">
@@ -68,3 +65,6 @@
 ###
 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ppost0/count.svg?"  />
+</div>
