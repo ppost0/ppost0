@@ -55,6 +55,10 @@
   <img width=480 height=240 src="https://media3.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif?cid=ecf05e47rx5gaz1tv0utcvakikfik062ki8hsyrwolbmi6oc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  alt="Itachi .gif"/>
 </div>
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ppost0/count.svg?"  />
+</div>
 ###
 
 <br clear="both">
