@@ -1,4 +1,4 @@
-<h2 color=purple align="center">Hi 👋! My name is Patrick Post and I'm a Software Engineer from New York</h2>
+<h2 color='purple' align="center">Hi 👋! My name is Patrick Post and I'm a Software Engineer from New York</h2>
 
 ###
 
