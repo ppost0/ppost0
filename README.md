@@ -5,9 +5,9 @@
 <p align="center">I previously worked for Pfizer as a scientist in Vaccine Research and Development for two years. 💉<br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
 </div>
 <div align=right>
-<h3 align="center">Where you can find me:</h3>
+<h3>Where you can find me:</h3>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="90" width="90" alt="linkedin logo"  />
   </a>
