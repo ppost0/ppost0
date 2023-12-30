@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I previously worked for <b>Pfizer</b> as a scientist in Vaccine Research and Development for two years. 💉<br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
+<p align="center">I previously worked for Pfizer as a scientist in Vaccine Research and Development for two years. 💉<br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
 
 ###
 
