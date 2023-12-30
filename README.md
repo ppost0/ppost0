@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋!%20My%20name%20is%20Patrick%20Post%20&textBg=false&fontSize=50&fontColor=FFFFFF&strokeWidth=2&animation=fadeIn&stroke=b02ded&desc=I'm%20a%20Software%20Engineer%20in%20New%20York&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋!%20My%20name%20is%20Patrick%20Post%20&textBg=false&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=I'm%20a%20Software%20Engineer%20in%20New%20York&descAlignY=55&fontAlign=50&fontAlignY=37" />
 
 ###
 
