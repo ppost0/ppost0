@@ -1,20 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋!%20My%20name%20is%20Patrick%20Post%20&textBg=false&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=I'm%20a%20Software%20Engineer%20in%20New%20York&descAlignY=55&fontAlign=50&fontAlignY=37" />
 
 ###
-<span align=left>
 <p>I previously worked for Pfizer as a scientist in Vaccine Research and Development for two years. 💉<br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
-</div>
-<div align=right>
-<h3>Where you can find me:</h3>
-</span>
-<span>
-  <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="90" width="90" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/19276572/ppost" target="_blank">
-    <img src="https://i0.wp.com/csshint.com/wp-content/uploads/2019/05/Animated-Logo-examples-2.gif?resize=345%2C202&ssl=1" height="90" alt="stackoverflow logo"  />
-  </a>
-</span>
+
+
 ###
 
 
