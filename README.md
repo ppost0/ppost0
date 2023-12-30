@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppost0&theme=midnight-purple&hide_border=true" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppost0&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <p align="center">I previously worked for <b>Pfizer</b> as a scientist in Vaccine Research and Development for two years. 💉<br>I love movies and video games.  <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> </p>
 
 ###
@@ -46,6 +39,12 @@
 </div>
 
 ###
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppost0&theme=midnight-purple&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppost0&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+</div>
 
 
 ###
