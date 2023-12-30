@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppost0&theme=midnight-purple&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ppost0&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppost0&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
