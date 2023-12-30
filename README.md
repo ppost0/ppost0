@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="center">Where you can find me:</h4>
+<h3 align="center">Where you can find me:</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patrickppost/" target="_blank">
