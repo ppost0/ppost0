@@ -26,7 +26,7 @@
 </p>
 
 ###
-
+<!---
 <h3 align="center">Where you can find me:</h3>
 
 <div align="center">
@@ -37,7 +37,7 @@
     <img src="https://i0.wp.com/csshint.com/wp-content/uploads/2019/05/Animated-Logo-examples-2.gif?resize=345%2C202&ssl=1" height="90" alt="stackoverflow logo"  />
   </a>
 </div>
-
+-->
 ###
 
 
