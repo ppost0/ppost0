@@ -1,12 +1,15 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20My%20name%20is%20Patrick%20Post%20&textBg=false&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=I'm%20a%20Software%20Engineer%20in%20New%20York&descAlignY=55&fontAlign=50&fontAlignY=37" />
 
 ###
-<p align=center>I live for solving complex problems through innovation.
+<p align=center>I love to tackle complex problems with innovation.
   <br> 
   Previously worked for Pfizer in Vaccine R&D. 💉
   <br>
   <br>
-  Currently working on <em>Kube Est8</em>, <br> a Kubernetes monitoring solution, accelerated under OS Labs.
+  Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch, <br> a Kubernetes monitoring solution, accelerated under OS Labs.
+  <br>
+  <br>
+  Currently contributing as a software engineer to a startup at IpserLab.
   <br>
   <br>
   70% of my body is made of movies and video games. <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> 
