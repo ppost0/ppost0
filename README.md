@@ -9,7 +9,7 @@
   Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch, <br> a Kubernetes monitoring solution, accelerated under OS Labs.
   <br>
   <br>
-  Currently contributing as a software engineer to a startup at IpserLab.
+  Currently contributing to a startup with IpserLab.
   <br>
   <br>
   70% of my body is made of movies and video games. <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> 
