@@ -1,15 +1,20 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20My%20name%20is%20Patrick%20Post%20&textBg=false&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=I'm%20a%20Software%20Engineer%20in%20New%20York&descAlignY=55&fontAlign=50&fontAlignY=37" />
+<div align=center>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Patrick%20Post%20&animation=fadeIn&fontSize=40&fontAlignY=50&desc=SWE%20in%20NY" />
+</div>
 
 ###
-<p align=center>I love to tackle complex problems with innovation.
+<p align=center>Love tackling new challenges in coding.
   <br> 
-  Previously worked for Pfizer in Vaccine R&D. 💉
+  Previously worked at Pfizer in Vaccine R&D during the pandemic. 
   <br>
   <br>
-  Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch, <br> a Kubernetes monitoring solution, accelerated under OS Labs.
+  Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch, <br> a Kubernetes app that lets you monitor the health of your cluster.
   <br>
   <br>
-  Currently contributing to a startup with IpserLab.
+  Contributed to a startup with IpserLab building MarketFusion for contract manufacturers.
+  <br>
+  <br>
+  Currently working with REQO contributing to IronHold, an archiving solution.
   <br>
   <br>
   70% of my body is made of movies and video games. <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> 
