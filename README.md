@@ -3,18 +3,15 @@
 </div>
 
 ###
-<p align=center>Love tackling new challenges in coding.
+<p align=center>Love tackling new coding challenges.
   <br> 
-  Previously worked at Pfizer in Vaccine R&D during the pandemic. 
+  Former scientist at Pfizer in Vaccine R&D.
   <br>
   <br>
-  Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch, <br> a Kubernetes app that lets you monitor the health of your cluster.
+  Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch with a team of 3 other engineers, <br> a Kubernetes app that lets you monitor the health of your cluster.
   <br>
   <br>
-  Contributed to a startup with IpserLab building MarketFusion for contract manufacturers.
-  <br>
-  <br>
-  Currently working with REQO contributing to IronHold, an archiving solution.
+  Contributed to startups <b>iHealth and Wellness</b> and <b>Ipser Lab</b>.
   <br>
   <br>
   70% of my body is made of movies and video games. <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> 
@@ -67,12 +64,12 @@
 -->
 ###
 
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ppost0&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppost0&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
-
+-->
 
 ###
 
@@ -95,6 +92,8 @@
 ###
 
 
+<!-- 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ppost0/count.svg?"  />
-</div>
+</div> 
+-->
