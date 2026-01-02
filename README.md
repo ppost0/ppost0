@@ -11,7 +11,7 @@
   Built <a href='https://www.github.com/oslabs-beta/kube-est8'>Kube-Est8</a> from scratch with a team of 3 other engineers, <br> a Kubernetes app that lets you monitor the health of your cluster.
   <br>
   <br>
-  Contributed to startups <b>iHealth and Wellness</b> and <b>Ipser Lab</b>.
+  Contributed to startups <b>iHealth and Wellness</b> and <b>Ipser Lab</b>. Currently working with a startup in stealth for the future of healthcare.⚕️
   <br>
   <br>
   70% of my body is made of movies and video games. <img src="https://i.giphy.com/tJW2EtfYWyABG.webp" width=60 height="60" /> 
